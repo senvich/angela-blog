@@ -1,0 +1,1 @@
+9999999999{"name": "Flask-WTF", "version": "0.14.3", "summary": "Simple integration of Flask and WTForms.", "platform": "any", "requires_dist": ["Flask", "WTForms", "itsdangerous"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}
